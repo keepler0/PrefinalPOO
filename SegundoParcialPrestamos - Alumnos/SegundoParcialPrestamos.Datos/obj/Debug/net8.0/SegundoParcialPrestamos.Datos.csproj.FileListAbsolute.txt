@@ -1,0 +1,30 @@
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Datos.deps.json
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Datos.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Datos.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.csproj.AssemblyReference.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.AssemblyInfoInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.AssemblyInfo.cs
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.csproj.CoreCompileInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoP.13C8AC03.Up2Date
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\refint\SegundoParcialPrestamos.Datos.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\ref\SegundoParcialPrestamos.Datos.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.AssemblyInfo.cs
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\refint\SegundoParcialPrestamos.Datos.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoParcialPrestamos.Datos.pdb
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Datos.deps.json
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Datos.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Datos.pdb
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.pdb
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\SegundoP.13C8AC03.Up2Date
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Datos\obj\Debug\net8.0\ref\SegundoParcialPrestamos.Datos.dll

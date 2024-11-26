@@ -1,0 +1,41 @@
+[
+  {
+    "$type": "SegundoParcialPrestamos.Entidades.PrestamoPesos, SegundoParcialPrestamos.Entidades",
+    "PrestamoNro": "07917bec-c36c-41d8-9010-b653f71bb9c3",
+    "Monto": 2000000.0,
+    "TasaInteres": 30.0,
+    "FechaInicio": "2024-11-19T19:39:21.9978863-03:00",
+    "Persona": {
+      "Apellido": "Lord",
+      "Nombres": "Juan",
+      "Dni": "11111111"
+    },
+    "Plazo": 24
+  },
+  {
+    "$type": "SegundoParcialPrestamos.Entidades.PrestamoDolares, SegundoParcialPrestamos.Entidades",
+    "PrestamoNro": "703645a3-bd3c-41dd-a770-6a51d9944335",
+    "Monto": 1000.0,
+    "TasaInteres": 5.0,
+    "FechaInicio": "2024-11-19T19:39:50.0339544-03:00",
+    "Persona": {
+      "Apellido": "Doe",
+      "Nombres": "John",
+      "Dni": "22222222"
+    },
+    "Plazo": 12
+  },
+  {
+    "$type": "SegundoParcialPrestamos.Entidades.PrestamoDolares, SegundoParcialPrestamos.Entidades",
+    "PrestamoNro": "e24282c6-f932-4a29-adee-db1b7bf1df0e",
+    "Monto": 3500.0,
+    "TasaInteres": 5.0,
+    "FechaInicio": "2024-11-19T19:58:56.2266563-03:00",
+    "Persona": {
+      "Apellido": "Putin",
+      "Nombres": "Vladimir",
+      "Dni": "13131313"
+    },
+    "Plazo": 12
+  }
+]

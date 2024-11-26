@@ -1,0 +1,22 @@
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.deps.json
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.AssemblyInfoInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.AssemblyInfo.cs
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.csproj.CoreCompileInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\refint\SegundoParcialPrestamos.Entidades.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\ref\SegundoParcialPrestamos.Entidades.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.AssemblyInfo.cs
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\refint\SegundoParcialPrestamos.Entidades.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\SegundoParcialPrestamos.Entidades.pdb
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.deps.json
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\bin\Debug\net8.0\SegundoParcialPrestamos.Entidades.pdb
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Entidades\obj\Debug\net8.0\ref\SegundoParcialPrestamos.Entidades.dll

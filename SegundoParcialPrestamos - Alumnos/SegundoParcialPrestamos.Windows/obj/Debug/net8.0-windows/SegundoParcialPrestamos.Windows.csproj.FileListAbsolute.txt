@@ -1,0 +1,52 @@
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.exe
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.deps.json
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.runtimeconfig.json
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Datos.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Entidades.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Datos.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Entidades.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.csproj.AssemblyReference.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.frmDetallePrestamo.resources
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.frmPrestamoAE.resources
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.frmPrestamos.resources
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.Properties.Resources.resources
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.csproj.GenerateResource.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.AssemblyInfoInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.AssemblyInfo.cs
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.csproj.CoreCompileInputs.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoP.D077B767.Up2Date
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\refint\SegundoParcialPrestamos.Windows.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.pdb
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.genruntimeconfig.cache
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\ref\SegundoParcialPrestamos.Windows.dll
+D:\Cátedras 2024\POO\Evaluaciones\SegundoParcialPrestamos - copia\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.csproj.AssemblyReference.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.frmDetallePrestamo.resources
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.frmPrestamoAE.resources
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.frmPrestamos.resources
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.Properties.Resources.resources
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.csproj.GenerateResource.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.AssemblyInfoInputs.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.AssemblyInfo.cs
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.csproj.CoreCompileInputs.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\refint\SegundoParcialPrestamos.Windows.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.pdb
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.exe
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.deps.json
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.runtimeconfig.json
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.pdb
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Datos.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Entidades.dll
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Datos.pdb
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\bin\Debug\net8.0-windows\SegundoParcialPrestamos.Entidades.pdb
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoP.D077B767.Up2Date
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\SegundoParcialPrestamos.Windows.genruntimeconfig.cache
+C:\Users\diego\Desktop\PrefinalPOO\SegundoParcialPrestamos - Alumnos\SegundoParcialPrestamos.Windows\obj\Debug\net8.0-windows\ref\SegundoParcialPrestamos.Windows.dll

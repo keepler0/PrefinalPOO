@@ -1,0 +1,272 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|solutionrelative:segundoparcialprestamos.entidades\\persona.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.windows\\frmprestamoae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|solutionrelative:segundoparcialprestamos.windows\\frmprestamoae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.windows\\helpers\\comboshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|solutionrelative:segundoparcialprestamos.windows\\helpers\\comboshelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|solutionrelative:segundoparcialprestamos.entidades\\prestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.entidades\\prestamodolares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|solutionrelative:segundoparcialprestamos.entidades\\prestamodolares.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.windows\\frmprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|solutionrelative:segundoparcialprestamos.windows\\frmprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CBAB7B70-27B1-452C-8EE5-B162469119FB}|SegundoParcialPrestamos.Datos\\SegundoParcialPrestamos.Datos.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.datos\\entidadfinanciera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CBAB7B70-27B1-452C-8EE5-B162469119FB}|SegundoParcialPrestamos.Datos\\SegundoParcialPrestamos.Datos.csproj|solutionrelative:segundoparcialprestamos.datos\\entidadfinanciera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.windows\\helpers\\gridhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|solutionrelative:segundoparcialprestamos.windows\\helpers\\gridhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.entidades\\enums\\plazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|solutionrelative:segundoparcialprestamos.entidades\\enums\\plazo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.windows\\frmprestamoae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|solutionrelative:segundoparcialprestamos.windows\\frmprestamoae.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.entidades\\prestamopesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|solutionrelative:segundoparcialprestamos.entidades\\prestamopesos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\segundoparcialprestamos.windows\\frmprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|solutionrelative:segundoparcialprestamos.windows\\frmprestamos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.entidades\\enums\\tipoprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{502E63DA-5FDD-402E-A8C1-483AB3B50DD3}|SegundoParcialPrestamos.Entidades\\SegundoParcialPrestamos.Entidades.csproj|solutionrelative:segundoparcialprestamos.entidades\\enums\\tipoprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|c:\\users\\diego\\desktop\\prefinalpoo\\segundoparcialprestamos - alumnos\\segundoparcialprestamos.windows\\frmdetalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|solutionrelative:segundoparcialprestamos.windows\\frmdetalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\segundoparcialprestamos.windows\\frmdetalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C6CC1860-1086-4828-B53A-C45B687B53F7}|SegundoParcialPrestamos.Windows\\SegundoParcialPrestamos.Windows.csproj|solutionrelative:segundoparcialprestamos.windows\\frmdetalleprestamo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 227,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Persona.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\Persona.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Entidades\\Persona.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\Persona.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Entidades\\Persona.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAywC8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:32:11.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Prestamo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\Prestamo.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Entidades\\Prestamo.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\Prestamo.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Entidades\\Prestamo.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwB4AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:35:55.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrestamoDolares.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\PrestamoDolares.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Entidades\\PrestamoDolares.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\PrestamoDolares.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Entidades\\PrestamoDolares.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:16:45.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmPrestamos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmPrestamos.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Windows\\frmPrestamos.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmPrestamos.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Windows\\frmPrestamos.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAMBAwCEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:06:46.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EntidadFinanciera.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Datos\\EntidadFinanciera.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Datos\\EntidadFinanciera.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Datos\\EntidadFinanciera.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Datos\\EntidadFinanciera.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAApwB0AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T22:31:46.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CombosHelper.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\Helpers\\CombosHelper.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Windows\\Helpers\\CombosHelper.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\Helpers\\CombosHelper.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Windows\\Helpers\\CombosHelper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:12:16.232Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GridHelper.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\Helpers\\GridHelper.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Windows\\Helpers\\GridHelper.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\Helpers\\GridHelper.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Windows\\Helpers\\GridHelper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAWwCcAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:13:26.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmPrestamoAE.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmPrestamoAE.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Windows\\frmPrestamoAE.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmPrestamoAE.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Windows\\frmPrestamoAE.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAAAuwD4AAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:08:28.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Plazo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\Enums\\Plazo.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Entidades\\Enums\\Plazo.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\Enums\\Plazo.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Entidades\\Enums\\Plazo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:29:16.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "frmPrestamoAE.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmPrestamoAE.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Windows\\frmPrestamoAE.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmPrestamoAE.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcialPrestamos.Windows\\frmPrestamoAE.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:08:25.871Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PrestamoPesos.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\PrestamoPesos.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Entidades\\PrestamoPesos.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\PrestamoPesos.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Entidades\\PrestamoPesos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T02:22:25.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "frmPrestamos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmPrestamos.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Windows\\frmPrestamos.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmPrestamos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "SegundoParcialPrestamos.Windows\\frmPrestamos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T01:21:03.041Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TipoPrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\Enums\\TipoPrestamo.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Entidades\\Enums\\TipoPrestamo.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Entidades\\Enums\\TipoPrestamo.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Entidades\\Enums\\TipoPrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-25T21:31:25.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "frmDetallePrestamo.cs",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmDetallePrestamo.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Windows\\frmDetallePrestamo.cs",
+              "ToolTip": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmDetallePrestamo.cs",
+              "RelativeToolTip": "SegundoParcialPrestamos.Windows\\frmDetallePrestamo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:10:46.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "frmDetallePrestamo.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\diego\\Desktop\\PrefinalPOO\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmDetallePrestamo.cs",
+              "RelativeDocumentMoniker": "SegundoParcialPrestamos.Windows\\frmDetallePrestamo.cs",
+              "ToolTip": "D:\\C\u00E1tedras 2024\\POO\\Evaluaciones\\SegundoParcialPrestamos - Alumnos\\SegundoParcialPrestamos.Windows\\frmDetallePrestamo.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T23:10:38.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
